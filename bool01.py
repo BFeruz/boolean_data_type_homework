@@ -8,4 +8,5 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return 
+    return a>0 
+print(main(1,1))
